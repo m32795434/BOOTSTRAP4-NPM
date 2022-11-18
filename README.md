@@ -125,3 +125,13 @@ At the root of the repo, `.stylelintignore` is used to list files that we ignore
 ## Copyright
 
 &copy; @mdo 2020-2022 and licensed MIT.
+<hr>
+## Important:
+## Which components explicitly require jQuery, our JavaScript, and Popper? 
+https://getbootstrap.com/docs/4.6/getting-started/introduction/#components
+## Others
+https://github.com/twbs/bootstrap-npm-starter
+https://getbootstrap.com/docs/4.6/getting-started/introduction/
+https://github.com/twbs/examples/tree/main/parcel
+https://github.com/twbs/examples/tree/main/sass-js-esm
+https://getbootstrap.com/docs/4.6/getting-started/contents/

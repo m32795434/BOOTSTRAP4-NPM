@@ -1,3 +1,4 @@
+// to ignore at linting
 **/*.min.css
 **/dist/
 node_modules

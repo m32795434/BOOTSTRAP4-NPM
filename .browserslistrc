@@ -1,5 +1,5 @@
 # https://github.com/browserslist/browserslist#readme
-
+<!-- this is for autoprefix the compiled css with npm run "css-prefix" -->
 >= 1%
 last 1 major version
 not dead
