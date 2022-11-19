@@ -55,7 +55,7 @@ npm start
 
 For the most straightforward development, open Terminal and run `npm start`.
 
-Open <http://localhost:3000> to see the page in action.
+Open <http://localhost:4000> to see the page in action.
 
 ## Scripts
 
@@ -63,7 +63,7 @@ The following npm scripts are available to you in this starter repo. With the ex
 
 | Script | Description |
 | --- | --- |
-| `server` | Starts a local server (<http://localhost:3000>) for development with live reloads |
+| `server` | Starts a local server (<http://localhost:4000>) for development with live reloads |
 | `watch` | Automatically recompiles CSS as it watches the `scss` directory for changes |
 | `css` | Runs `css-compile` and `css-prefix` |
 | `css-compile` | Compiles source Sass into CSS |
